@@ -22,7 +22,7 @@ The below image repreesnts the mobile view:
 ![image](https://user-images.githubusercontent.com/113676689/233598660-f2c7e67d-5e09-42f6-bb1f-ea5245160907.png)
 
 ## Interests
-![image](https://user-images.githubusercontent.com/113676689/233598722-bd2f56ec-c8f1-4973-82f5-c24a727d4119.png)
+![image](https://user-images.githubusercontent.com/113676689/233600229-7b84eff7-a5fc-440a-9ba7-bf78a40fed94.png)
 
 ## Education
 ![image](https://user-images.githubusercontent.com/113676689/233598763-f042cb0d-3f25-4908-84f0-e81c8815381c.png)
