@@ -14,6 +14,10 @@ The below image repreesnts the mobile view:
 
 ![image](https://user-images.githubusercontent.com/113676689/233598324-6054c01b-2286-49a6-819a-03709e130c91.png)
 
+## Work experience
+![image](https://user-images.githubusercontent.com/113676689/233599949-3e26cc88-a355-439f-a8b3-fb8e396acb48.png)
+
+
 ## Skills
 ![image](https://user-images.githubusercontent.com/113676689/233598660-f2c7e67d-5e09-42f6-bb1f-ea5245160907.png)
 
