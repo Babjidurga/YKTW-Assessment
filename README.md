@@ -28,6 +28,11 @@ The below image repreesnts the mobile view:
 ![image](https://user-images.githubusercontent.com/113676689/233598763-f042cb0d-3f25-4908-84f0-e81c8815381c.png)
 
 
+
+## This is a small video explanation 
+https://www.loom.com/share/f7c19c44a4cb4926ac1f5a14f6b6fe8f
+
+
 To achieve the responsives the technologies used are HTML, CSS, BOOTSTRAP.
 
 For icons -- https://icons.getbootstrap.com/ , https://fontawesome.com/icons
